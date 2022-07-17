@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T17:51:22.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="ftC3hkK5ShMgWFcK6Eed" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-17T17:58:57.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="ZSofeo4SaRm1lIZ8Zi6t" version="20.1.1" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
-    <mxGraphModel dx="2058" dy="2315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2802" dy="2793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,9 +356,6 @@
         <mxCell id="Lh5rpaYd-KICDrXvnwN2-76" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#030303;fillColor=#99FFFF;shape=mxgraph.azure.cloud;labelBackgroundColor=#FFFF99;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1730" y="-660" width="179" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Lh5rpaYd-KICDrXvnwN2-77" value="&lt;h3&gt;AaaS&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="-540" width="90" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="Lh5rpaYd-KICDrXvnwN2-78" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;labelBackgroundColor=#FFFF99;fontSize=24;strokeColor=#030303;fillColor=#9999FF;" vertex="1" parent="1">
           <mxGeometry x="1450" y="-660" width="50" height="60" as="geometry" />
         </mxCell>
@@ -379,6 +376,28 @@
         </mxCell>
         <mxCell id="Lh5rpaYd-KICDrXvnwN2-85" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux;labelBackgroundColor=#FFFF99;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1544" y="-850" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Lh5rpaYd-KICDrXvnwN2-86" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.backup_browser;labelBackgroundColor=#FFFF99;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-592" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Lh5rpaYd-KICDrXvnwN2-87" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/azure_stack/Infrastructure_Backup.svg;labelBackgroundColor=#FFFF99;strokeColor=#030303;fillColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="-640" width="26.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lh5rpaYd-KICDrXvnwN2-88" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_14-128.png;fontSize=24;strokeColor=#030303;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="1824" y="-607.5" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Lh5rpaYd-KICDrXvnwN2-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/filesystems/folder_updates.png;fontSize=24;strokeColor=#030303;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="1784" y="-570" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lh5rpaYd-KICDrXvnwN2-93" value="&lt;h3&gt;XaaS&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1774.5" y="-550" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Lh5rpaYd-KICDrXvnwN2-94" style="edgeStyle=none;dashed=1;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=8;fontFamily=Verdana;fontSize=22;exitX=0.94;exitY=0.41;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lh5rpaYd-KICDrXvnwN2-64" target="Lh5rpaYd-KICDrXvnwN2-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="-550" as="sourcePoint" />
+            <mxPoint x="920.5107350327198" y="-766.988852400953" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
